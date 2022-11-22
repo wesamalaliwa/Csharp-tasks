@@ -1,0 +1,8 @@
+C:\Users\Dell\Csharp-tasks\22-NOV\bin\Debug\22-NOV.exe.config
+C:\Users\Dell\Csharp-tasks\22-NOV\bin\Debug\22-NOV.exe
+C:\Users\Dell\Csharp-tasks\22-NOV\bin\Debug\22-NOV.pdb
+C:\Users\Dell\Csharp-tasks\22-NOV\obj\Debug\22-NOV.csproj.AssemblyReference.cache
+C:\Users\Dell\Csharp-tasks\22-NOV\obj\Debug\22-NOV.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Csharp-tasks\22-NOV\obj\Debug\22-NOV.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Csharp-tasks\22-NOV\obj\Debug\22-NOV.exe
+C:\Users\Dell\Csharp-tasks\22-NOV\obj\Debug\22-NOV.pdb
