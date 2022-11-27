@@ -37,7 +37,7 @@ namespace _22_NOV
             }
             foreach (string c in movie)
             {
-                Console.WriteLine(movie);
+                Console.WriteLine(c);
             }
             ////////////////////////////////////////////
             ///task4
@@ -59,7 +59,7 @@ namespace _22_NOV
             //////////////////////////////////////////
             ///task5
             int oddno = 0;
-            for (int i = 1; i < 100; i++)
+            for (int i = 1; i <= 100; i++)
             {
                 if (i % 2 != 0) 
                 { 
@@ -71,7 +71,7 @@ namespace _22_NOV
             }
             //////////////////////////////////////////
             /////task6
-
+            Console.WriteLine("\n");
             for (int r = 0; r < 4; r++)
             {
 
@@ -83,7 +83,8 @@ namespace _22_NOV
                 {
                     Console.Write("*" + " ");
                 }
-                Console.Write("\n");
+                Console.WriteLine("\n");
+                
             }
             ////////////////////////////////////////////////////////
             //task7

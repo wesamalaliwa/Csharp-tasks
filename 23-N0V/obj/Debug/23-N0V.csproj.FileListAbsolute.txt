@@ -1,0 +1,8 @@
+C:\Users\Dell\Csharp-tasks\23-N0V\bin\Debug\23-N0V.exe.config
+C:\Users\Dell\Csharp-tasks\23-N0V\bin\Debug\23-N0V.exe
+C:\Users\Dell\Csharp-tasks\23-N0V\bin\Debug\23-N0V.pdb
+C:\Users\Dell\Csharp-tasks\23-N0V\obj\Debug\23-N0V.csproj.AssemblyReference.cache
+C:\Users\Dell\Csharp-tasks\23-N0V\obj\Debug\23-N0V.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Csharp-tasks\23-N0V\obj\Debug\23-N0V.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Csharp-tasks\23-N0V\obj\Debug\23-N0V.exe
+C:\Users\Dell\Csharp-tasks\23-N0V\obj\Debug\23-N0V.pdb
