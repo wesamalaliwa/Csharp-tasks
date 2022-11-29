@@ -1,0 +1,8 @@
+C:\Users\Dell\Csharp-tasks\29=NOV\obj\Debug\29=NOV.csproj.AssemblyReference.cache
+C:\Users\Dell\Csharp-tasks\29=NOV\obj\Debug\29=NOV.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Csharp-tasks\29=NOV\obj\Debug\29=NOV.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Csharp-tasks\29=NOV\bin\Debug\29=NOV.exe.config
+C:\Users\Dell\Csharp-tasks\29=NOV\bin\Debug\29=NOV.exe
+C:\Users\Dell\Csharp-tasks\29=NOV\bin\Debug\29=NOV.pdb
+C:\Users\Dell\Csharp-tasks\29=NOV\obj\Debug\29=NOV.exe
+C:\Users\Dell\Csharp-tasks\29=NOV\obj\Debug\29=NOV.pdb

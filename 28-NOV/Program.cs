@@ -90,7 +90,7 @@ namespace _28_NOV
 
             Console.WriteLine("enter your car color");
             string color = Console.ReadLine();
-
+            
 
             Cars myCar = new Cars(make, year, type, price, model, paletNum, color);
 
