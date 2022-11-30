@@ -42,6 +42,7 @@ namespace _29_NOV
             DateTime now = DateTime.Now; TimeSpan value = now.Subtract(Birthday);
 
             Console.WriteLine("YOUR AGE:"+(int)value.TotalDays / 365);
+       
 
         }
 
